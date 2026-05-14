@@ -42,3 +42,26 @@ Swetha
 - Database Connectivity
 - Online Payment Gateway
 - Admin Dashboard
+
+Project Screenshots
+
+Home Page
+![Home Page](./src/Home%20page.png)
+
+Products Page
+![Products Page](./src/Products%20page.png)
+
+Cart Page
+![Cart Page](./src/Cart%20page.png)
+
+Wishlist Page
+![Wishlist Page](./src/Wishlist%20page.png)
+
+Orders Page
+![Orders Page](./src/Orders%20page.png)
+
+Login Page
+![Login Page](./src/Login%20page.png)
+
+Payment Page
+![Payment Page](./src/Payment%20page.png)
